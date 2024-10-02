@@ -16,7 +16,7 @@ Model: LSTM (3 layers) + Dense (2 layers)
 Feature Extraction: MediaPipe, OpenCV
 Programming Languages: Python
 Tools: Jupyter Notebooks, NumPy, Pandas
-Environment: Tested on local machines (Windows/Linux/Mac)
+Environment: Tested on local machine (Mac)
 
 # Dataset
 A custom dataset consisting of 30 video frames per ASL gesture was built for this project. Each gesture's video is converted into sequential key point data using MediaPipe, capturing the motion and positions of hand gestures.
