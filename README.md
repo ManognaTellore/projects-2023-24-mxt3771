@@ -1,4 +1,3 @@
-# projects-2023-24-mxt3771
 # ASL Detection Using Action Recognition with LSTM
 This project focuses on real-time American Sign Language (ASL) gesture recognition using Long Short-Term Memory (LSTM) deep learning models. By leveraging MediaPipe and OpenCV for real-time feature extraction and a custom-built dataset, the system can detect subtle differences between ASL gestures, providing robust real-time performance even in cluttered environments.
 
